@@ -1,0 +1,9 @@
+[
+  {
+    "number" : 1,
+    "name" : "Bulbasaur",
+    "description" : "Description",
+    "type1" : "Grass",
+    "type2" : null
+  }
+}
